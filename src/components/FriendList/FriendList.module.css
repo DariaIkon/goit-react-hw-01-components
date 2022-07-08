@@ -1,0 +1,26 @@
+.item {
+}
+.status {
+}
+.isOnline {
+  border: 1px;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+}
+.true {
+  background-color: green;
+}
+.false {
+  background-color: red;
+}
+.avatar {
+  width: 80px;
+  margin-right: 20px;
+}
+.name {
+  font-weight: 700;
+}
+.friend_list {
+}
